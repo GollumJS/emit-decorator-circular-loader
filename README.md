@@ -3,6 +3,10 @@
 Add support circular import on typescript emit decorator metadata
 
 
+[![Licence](https://img.shields.io/npm/l/emit-decorator-circular-loader.svg?colorB=4B9081)](https://github.com/GollumJS/emit-decorator-circular-loader/blob/master/LICENSE)
+[![NPM version](https://img.shields.io/npm/v/emit-decorator-circular-loader.svg)](https://www.npmjs.com/package/emit-decorator-circular-loader)
+[![Discord](https://img.shields.io/discord/671741944149573687?color=purple&label=discord)](https://discord.gg/xMBc5SQ)
+
 
 ## Install
 ```
