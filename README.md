@@ -57,7 +57,7 @@ module.exports = {
                     // [...]
                     
                     {
-                        loader: path.resolve(__dirname, 'emit-decorator-circular-fixer-loader.js'),
+                        loader: 'emit-decorator-circular-loader'
                     },
                     {
                         loader: 'ts-loader',
