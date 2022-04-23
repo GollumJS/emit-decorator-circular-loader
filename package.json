@@ -1,0 +1,33 @@
+{
+  "name": "emit-decorator-circular-loader",
+  "version": "1.0.0",
+  "description": "Add support circular import on typescript emit decorator metadata",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GollumJS/emit-decorator-circular-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "reflect-metadata",
+    "typescript",
+    "emit-decorator",
+    "emit-decorator-metadata",
+    "emit",
+    "decorator",
+    "metadata",
+    "circular"
+  ],
+  "author": "Damien Duboeuf <smeagolworms4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GollumJS/emit-decorator-loader/issues"
+  },
+  "homepage": "https://github.com/GollumJS/emit-decorator-loader/blob/master/README.md",
+  "files": [
+    "README.mb",
+    "LICENSE",
+    "package.json",
+    "index.js",
+  ]
+}
